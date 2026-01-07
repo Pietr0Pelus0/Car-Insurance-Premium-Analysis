@@ -35,3 +35,7 @@ Il file `car_insurance_premium_dataset.csv` contiene le seguenti variabili:
 Per eseguire l'analisi, installare i seguenti pacchetti in R:
 ```r
 install.packages(c("ggplot2", "corrplot", "statmod", "factoextra", "reshape2", "cluster"))
+```
+## **Autori**
+- Laraia Letizia
+- Peluso Pietro
