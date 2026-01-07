@@ -10,6 +10,7 @@ L'analisi si basa su un dataset di 1.000 conducenti e utilizza diverse metodolog
 ## Descrizione del Dataset e Data Availability
 Il dataset utilizzato per questa analisi è incluso integralmente in questo repository al fine di garantire la riproducibilità dei risultati. È possibile trovare i dati nel file:
 - `car_insurance_premium_dataset.csv`.
+
 Si specifica che i dati contenuti in questo progetto hanno una **natura puramente didattica e illustrativa**.
 Il file `car_insurance_premium_dataset.csv` contiene le seguenti variabili:
 - `AGE`: Età del conducente.
