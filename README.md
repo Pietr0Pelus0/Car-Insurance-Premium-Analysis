@@ -7,7 +7,10 @@ L'analisi si basa su un dataset di 1.000 conducenti e utilizza diverse metodolog
 - **Riduzione della dimensionalità:** Analisi delle Componenti Principali (PCA).
 - **Segmentazione:** Clustering per identificare profili di guidatori omogenei.
 
-## Descrizione del Dataset
+## Descrizione del Dataset e Data Availability
+Il dataset utilizzato per questa analisi è incluso integralmente in questo repository al fine di garantire la riproducibilità dei risultati. È possibile trovare i dati nel file:
+- `car_insurance_premium_dataset.csv`.
+Si specifica che i dati contenuti in questo progetto hanno una **natura puramente didattica e illustrativa**.
 Il file `car_insurance_premium_dataset.csv` contiene le seguenti variabili:
 - `AGE`: Età del conducente.
 - `EXP`: Anni di esperienza di guida.
@@ -36,6 +39,9 @@ Per eseguire l'analisi, installare i seguenti pacchetti in R:
 ```r
 install.packages(c("ggplot2", "corrplot", "statmod", "factoextra", "reshape2", "cluster"))
 ```
+## Licenza
+Questo progetto è distribuito sotto la **Licenza MIT**. Ciò significa che sei libero di utilizzare, copiare, modificare e distribuire il codice, a condizione che venga fornita l'attribuzione all'autore originale.
+
 ## **Autori**
 - Laraia Letizia
 - Peluso Pietro
