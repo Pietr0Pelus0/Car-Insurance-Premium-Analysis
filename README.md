@@ -1,7 +1,13 @@
 # Car Insurance Premium Analysis
-Questo progetto sviluppa un'analisi statistica completa in **R** per identificare i fattori che influenzano il calcolo dei premi assicurativi automobilistici. Attraverso l'uso di modelli lineari, modelli generalizzati (GLM) e tecniche di analisi multivariata, il progetto mira a profilare il rischio e prevedere i costi dei premi.
+
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Statistical Analysis](https://img.shields.io/badge/Analysis-GLM%20%26%20Inference-blue.svg)
+
 
 ## Panoramica del Progetto
+Questo progetto sviluppa un'analisi statistica completa in **R** per identificare i fattori che influenzano il calcolo dei premi assicurativi automobilistici. Attraverso l'uso di modelli lineari, modelli generalizzati (GLM) e tecniche di analisi multivariata, il progetto mira a profilare il rischio e prevedere i costi dei premi.
+
 L'analisi si basa su un dataset di 1.000 conducenti e utilizza diverse metodologie statistiche per estrarre insight significativi:
 - **Modellizzazione:** Confronto tra regressione lineare e modelli GLM.
 - **Riduzione della dimensionalità:** Analisi delle Componenti Principali (PCA).
